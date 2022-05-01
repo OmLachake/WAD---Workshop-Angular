@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-app';
+
+  todos=[
+      {title:'1',desc:'one'},
+      {title:'2',desc:'one'},
+      {title:'3',desc:'one'},
+      {title:'4',desc:'one'},
+      {title:'5',desc:'one'},
+  ]
 }
